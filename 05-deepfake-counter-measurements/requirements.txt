@@ -1,0 +1,7 @@
+tensorboard
+pandas
+numpy
+torch
+torchaudio
+torchvision
+scikit-learn
